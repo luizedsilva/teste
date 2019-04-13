@@ -1,3 +1,3 @@
 # programa teste.c
-![./lingc.jpeg](Linguagem C)
+![Linguagem C](./lingc.jpeg)
 Este eh um teste do arquivo readme.
